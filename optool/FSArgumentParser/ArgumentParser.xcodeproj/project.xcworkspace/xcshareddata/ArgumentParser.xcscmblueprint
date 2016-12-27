@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C" : 9223372036854775807,
+    "F1B76423BDB1F725E43865F622E178CED216846D" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "77D67828-FE10-470A-AD09-8F40DCA44CD0",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C" : "ArgumentParser\/",
+    "F1B76423BDB1F725E43865F622E178CED216846D" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ArgumentParser",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ArgumentParser.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/mysteriouspants\/ArgumentParser.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D1B6B9FA9FE2EC412736C36DCF6D3BF9E34BCB5C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/alexzielenski\/optool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "F1B76423BDB1F725E43865F622E178CED216846D"
+    }
+  ]
+}
